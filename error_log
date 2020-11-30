@@ -1,0 +1,277 @@
+[05-Jul-2019 21:01:44 UTC] PHP Warning:  require(./phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home1/eplane83/public_html/phpmailer/send.php on line 4
+[05-Jul-2019 21:01:44 UTC] PHP Warning:  require(./phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home1/eplane83/public_html/phpmailer/send.php on line 4
+[05-Jul-2019 21:01:44 UTC] PHP Fatal error:  require(): Failed opening required './phpmailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/eplane83/public_html/phpmailer/send.php on line 4
+[05-Jul-2019 21:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::replyTo() in /home1/eplane83/public_html/phpmailer/send.php:48
+Stack trace:
+#0 {main}
+  thrown in /home1/eplane83/public_html/phpmailer/send.php on line 48
+[09-Oct-2019 07:54:51 America/Sao_Paulo] PHP Warning:  require(./phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 6
+[09-Oct-2019 07:54:51 America/Sao_Paulo] PHP Warning:  require(./phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 6
+[09-Oct-2019 07:54:51 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required './phpmailer/src/PHPMailer.php' (include_path='.:/opt/php70/lib/php') in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 6
+[09-Oct-2019 08:04:32 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 14
+[09-Oct-2019 08:05:22 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 14
+[09-Oct-2019 08:08:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemDescription' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[09-Oct-2019 08:08:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemUrl' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 20
+[09-Oct-2019 08:08:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemUrl' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 20
+[09-Oct-2019 08:08:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemDescription' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[09-Oct-2019 08:08:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemUrl' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 20
+[09-Oct-2019 08:08:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemUrl' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 20
+[09-Oct-2019 08:08:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemDescription' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[09-Oct-2019 08:08:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemUrl' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 20
+[09-Oct-2019 08:08:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemUrl' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 20
+[09-Oct-2019 08:09:50 America/Sao_Paulo] PHP Warning:  Illegal string offset '' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[09-Oct-2019 08:09:50 America/Sao_Paulo] PHP Warning:  Illegal string offset '' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[09-Oct-2019 08:09:50 America/Sao_Paulo] PHP Warning:  Illegal string offset '' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[09-Oct-2019 08:10:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemId' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[09-Oct-2019 08:10:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemId' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[09-Oct-2019 08:10:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemId' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[09-Oct-2019 08:10:19 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemId' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[09-Oct-2019 08:10:19 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemId' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[09-Oct-2019 08:10:19 America/Sao_Paulo] PHP Warning:  Illegal string offset 'itemId' in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 19
+[12-Oct-2019 10:28:22 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php on line 16
+[12-Oct-2019 10:31:39 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php on line 18
+[12-Oct-2019 10:32:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php on line 82
+[12-Oct-2019 10:52:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'url' in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php on line 17
+[12-Oct-2019 10:52:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php on line 17
+[12-Oct-2019 10:52:13 America/Sao_Paulo] PHP Warning:  Illegal string offset 'url' in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php on line 17
+[12-Oct-2019 10:52:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php on line 17
+[12-Oct-2019 11:26:43 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php on line 53
+[12-Oct-2019 11:27:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php on line 53
+[12-Oct-2019 11:28:05 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/upper952/dev.uppercreative.com.br/phpmailer/send.php on line 53
+[12-Oct-2019 11:34:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/upper952/dev.uppercreative.com.br/phpmailer/send.php(69): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php on line 1466
+[12-Oct-2019 11:34:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/upper952/dev.uppercreative.com.br/phpmailer/send.php(69): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php on line 1466
+[12-Oct-2019 11:35:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/upper952/dev.uppercreative.com.br/phpmailer/send.php(69): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php on line 1466
+[12-Oct-2019 11:35:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/upper952/dev.uppercreative.com.br/phpmailer/send.php(69): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php on line 1466
+[12-Oct-2019 11:36:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/upper952/dev.uppercreative.com.br/phpmailer/send.php(72): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php on line 1466
+[12-Oct-2019 11:37:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/upper952/dev.uppercreative.com.br/phpmailer/send.php(74): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/upper952/dev.uppercreative.com.br/phpmailer/src/PHPMailer.php on line 1466
+[13-Oct-2019 01:55:51 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/upper952/dev.uppercreative.com.br/phpmailer/paypalConfirmMail.php on line 38
+[13-Oct-2019 03:02:14 America/Sao_Paulo] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/upper952/dev.uppercreative.com.br/phpmailer/get_oauth_token.php on line 59
+[13-Oct-2019 03:02:14 America/Sao_Paulo] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/upper952/dev.uppercreative.com.br/phpmailer/get_oauth_token.php on line 59
+[13-Oct-2019 03:02:14 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home/upper952/dev.uppercreative.com.br/phpmailer/get_oauth_token.php on line 59
+[14-Oct-2019 03:41:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 03:42:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 03:43:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 03:44:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 03:44:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1798
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1539): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 14 O...', 'This is a multi...')
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1375): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1798
+[14-Oct-2019 03:44:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php on line 9
+[14-Oct-2019 03:45:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php on line 9
+[14-Oct-2019 03:49:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php on line 9
+[14-Oct-2019 03:49:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 03:53:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function IsSMTP() on null in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php on line 11
+[14-Oct-2019 03:54:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function IsSMTP() on null in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php on line 11
+[14-Oct-2019 04:00:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1027
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(994): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('Reply-To', '', '')
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(23): PHPMailer\PHPMailer\PHPMailer->addReplyTo(NULL)
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1027
+[14-Oct-2019 04:01:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1027
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(994): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('Reply-To', '', '')
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(23): PHPMailer\PHPMailer\PHPMailer->addReplyTo(NULL)
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1027
+[14-Oct-2019 04:02:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1027
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(994): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('Reply-To', '', '')
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(22): PHPMailer\PHPMailer\PHPMailer->addReplyTo(NULL)
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1027
+[14-Oct-2019 04:02:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1027
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(994): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('Reply-To', '', '')
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(22): PHPMailer\PHPMailer\PHPMailer->addReplyTo(NULL)
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1027
+[14-Oct-2019 04:03:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(34): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 04:04:01 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php on line 32
+[14-Oct-2019 04:04:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(32): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 04:06:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(32): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 04:10:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(39): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 04:13:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 04:14:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php on line 13
+[14-Oct-2019 04:18:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(32): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 04:18:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 04:19:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 04:19:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 04:19:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1466
+[14-Oct-2019 04:20:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\SMTP' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1759
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1884): PHPMailer\PHPMailer\PHPMailer->getSMTPInstance()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1797): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#2 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1539): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 14 O...', 'This is a multi...')
+#3 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1375): PHPMailer\PHPMailer\PHPMailer->postSend()
+#4 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#5 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1759
+[14-Oct-2019 04:21:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\SMTP' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1759
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1884): PHPMailer\PHPMailer\PHPMailer->getSMTPInstance()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1797): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#2 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1539): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 14 O...', 'This is a multi...')
+#3 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1375): PHPMailer\PHPMailer\PHPMailer->postSend()
+#4 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#5 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1759
+[14-Oct-2019 04:23:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\SMTP' not found in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php:1759
+Stack trace:
+#0 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1884): PHPMailer\PHPMailer\PHPMailer->getSMTPInstance()
+#1 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1797): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#2 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1539): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 14 O...', 'This is a multi...')
+#3 /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php(1375): PHPMailer\PHPMailer\PHPMailer->postSend()
+#4 /home1/hottan44/public_html/_hmg/sistema/phpmailer/send.php(40): PHPMailer\PHPMailer\PHPMailer->send()
+#5 {main}
+  thrown in /home1/hottan44/public_html/_hmg/sistema/phpmailer/src/PHPMailer.php on line 1759
+[02-Nov-2019 11:19:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/send.php(39): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/src/PHPMailer.php on line 1466
+[02-Nov-2019 11:20:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/send.php(39): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/src/PHPMailer.php on line 1466
+[02-Nov-2019 11:20:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/src/PHPMailer.php:1466
+Stack trace:
+#0 /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/src/PHPMailer.php(1371): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/send.php(39): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hottan44/public_html/hottank.com.br_sistema/phpmailer/src/PHPMailer.php on line 1466
